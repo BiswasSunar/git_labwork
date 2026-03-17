@@ -1,1 +1,2 @@
 "Hi this is a normal txt file created for the labreport"
+Here i am writing a second line to make some changes.
