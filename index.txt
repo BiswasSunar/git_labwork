@@ -1,1 +1,2 @@
 "Hi this is a normal txt file created for the labreport"
+i recently added a line for merge conflict.
